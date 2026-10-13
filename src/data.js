@@ -1,0 +1,2 @@
+export const business = {"phone":"011 863 2733","location":"Mabuthos Shopping Centre, Soweto","palette":["#30251f","#df9a4d","#f5ede1"],"sub":"A lively digital welcome for a neighborhood pub at Mabuthos Shopping Centre.","archetype":"Hospitality","title":"Your local, after hours.","industry":"Pub/bar","photo":"https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1800&q=85","email":"","name":"Mabuthos Pub"};
+
